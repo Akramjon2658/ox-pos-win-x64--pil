@@ -1,1 +1,2 @@
-# ox-pos-win-x64--revo
+# ox-pos-win-x64
+`with public install location -> C:\Users\Public`
